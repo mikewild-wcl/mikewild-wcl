@@ -1,6 +1,21 @@
-# Hi there, I'm Mike Wild👋 
-- 🖥 I work as a .NET Core and Azure software development consultant in the UK.
-- 👀 I’m interested in **.NET**, **Machine Learning**, and **R** for data analysis and visualisation.
-- 🌱 I’m currently learning Microsoft Agent Framework for Generative AI and deepening my .NET C# skills. I am also learning Python and R for data analysis.
-- 📫 How to reach me: By [email](wildconsultingltd@googlemail.com) or [LinkedIn](https://www.linkedin.com/in/mike-wild-6128434/)
+# Hi there, I'm Mike Wild👋
 
+- 🖥 I am a seasoned software developer and consultant specializing in Microsoft .NET C#, Azure development, and agile methodologies.
+- 👀 My experience spans industries including banking, insurance, publishing, and education, working in public and private sectors worldwide.
+- 🌱 My current focus includes exploring cutting-edge technologies like machine learning, data analysis, and geospatial visualization with R and Python.
+- 💻 Key technologies I excel at include ASP.NET Core, Azure serverless architecture, SQL Server, Angular/React, and Docker.
+- 🔧 I also have expertise in developing cloud-based Azure solutions and Continuous Integration with Azure DevOps.
+- 📈 I am passionate about delivering high-quality, innovative software solutions.
+
+### Career Highlights:
+
+- 🌟 **Developing Mission-Critical Systems**:
+   - Designed and implemented intricate microservices environments, including multiple GOV.UK web platforms.
+   - Built scalable Azure solutions using techniques like CQRS with MediatR and RESTful design with ASP.NET Core.
+
+- 🌟 **Leadership and Technical Project Management Experience**:
+   - Successfully led small teams on agile projects, delivering within Government Digital Service (GDS).
+   - Leveraged OpenID Connect features for secure and efficient API integrations across multiple enterprise services, including T-Levels projects.
+
+---
+Contact: [Email](mailto:wildconsultingltd@googlemail.com) | [Website](https://...
