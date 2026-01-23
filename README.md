@@ -1,6 +1,6 @@
 # Mike Wild  
 
-Senior / Lead .NET Engineer with 30+ years’ experience delivering large-scale, cloud-native systems in UK government and regulated private-sector environments. Specialist in Azure, ASP.NET Core, distributed microservices, CI/CD, and GDS delivery. Work experience in New Zealand, Taiwan, Saudi Arabia and the UK. 
+Senior / Lead .NET Engineer with 20+ years’ experience delivering large-scale, cloud-native systems in UK government and regulated private-sector environments. Specialist in Azure, ASP.NET Core, distributed microservices, CI/CD, and GDS delivery. Work experience in New Zealand, Taiwan, Saudi Arabia and the UK. 
 
 Currently expanding into generative AI, AI-enabled engineering with GitHub Copilot and Claude Code, and local-first cloud-native development with .NET Aspire.
 
