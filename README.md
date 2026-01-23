@@ -1,8 +1,6 @@
 # Mike Wild  
 
-Senior / Lead .NET Engineer with 30+ years’ experience delivering large-scale, cloud-native systems in UK government and regulated private-sector environments. Specialist in Azure, ASP.NET Core, distributed microservices, CI/CD, and GDS delivery.
-
-I’ve worked across government, banking, insurance, publishing, and education, with international experience in the UK, New Zealand, Taiwan, and Saudi Arabia. I’m currently focused on **enterprise-grade generative AI**, AI-enabled engineering, and local-first cloud-native development with .NET Aspire.
+Senior / Lead .NET Engineer with 30+ years’ experience delivering large-scale, cloud-native systems in UK government and regulated private-sector environments. Specialist in Azure, ASP.NET Core, distributed microservices, CI/CD, and GDS delivery. Work experience in New Zealand, Taiwan, Saudi Arabia and the UK. 
 
 Currently expanding into generative AI, AI-enabled engineering with GitHub Copilot and Claude Code, and local-first cloud-native development with .NET Aspire.
 
@@ -22,10 +20,10 @@ Currently expanding into generative AI, AI-enabled engineering with GitHub Copil
 
 ### **Core Skills**
 
--	.NET & C#: ASP.NET Core MVC, Razor pages, web APIs and minimal APIs
--	Microsoft Azure: App Services, Functions, Service Bus, Storage, Key Vault, and Application Insights 
--	Databases: SQL Server and Cosmos DB with EF Core and Dapper
--	Agile delivery: GDS (Government Digital Service) and Scrum 
+- .NET & C#: ASP.NET Core MVC, Razor Pages, web APIs and minimal APIs
+- Microsoft Azure: App Services, Functions, Service Bus, Storage, Key Vault, and Application Insights 
+- Databases: SQL Server and Cosmos DB with EF Core and Dapper
+- Agile delivery: GDS (Government Digital Service) and Scrum 
 
 ### **Generative AI & Intelligent Systems**
 
@@ -38,21 +36,16 @@ Currently expanding into generative AI, AI-enabled engineering with GitHub Copil
 ### **Cloud Platforms**
 
 - **Azure**: Azure OpenAI, App Services, Functions, Service Bus, Cosmos DB, Storage, Key Vault, APIM, Application Insights, Bicep  
-- **AWS (working knowledge)**: EC2, RDS, S3, Bedrock concepts
+- **AWS (working knowledge)**: EC2, RDS, S3, Lambda and Bedrock concepts
 
 ### **Other Skills**
 
 - CI/CD: builds and deployment with Azure DevOps YAML pipelines, Bicep, and ARM templates
--	AWS: working knowledge of EC2, RDS, S3; familiarity with Bedrock concepts
--	Modern Development: Docker and Aspire for local-first cloud-native applications
--	Microsoft Fabric: Data ingestion, transformation, and Data Lake storage
--	Test-driven development (TDD) - xUnit and MS Test, with Moq, NSubstitute, SpecFlow and Selenium
--	Web: HTML, JavaScript, CSS
--	Data Science: Python, R, geospatial visualisation, analytics pipelines
-
-### **Cloud Platforms**
-•	Azure: Azure OpenAI, App Services, Functions, Service Bus, Cosmos DB, Storage, Key Vault, APIM, Application Insights
-•	AWS (working knowledge): EC2, RDS, S3; familiarity with Bedrock and SageMaker concepts
+- Modern Development: Docker and Aspire for local-first cloud-native applications
+- Microsoft Fabric: Data ingestion, transformation, and Data Lake storage
+- Test-driven development (TDD) - xUnit and MS Test, with Moq, NSubstitute, SpecFlow and Selenium
+- Web: HTML, JavaScript, CSS
+- Data Science: Python, R, geospatial visualisation, analytics pipelines
 
 ## 🌟 Selected Projects
 
