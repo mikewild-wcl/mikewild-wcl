@@ -47,7 +47,7 @@ Currently expanding into generative AI, AI-enabled engineering with GitHub Copil
 - Web: HTML, JavaScript, CSS
 - Data Science: Python, R, geospatial visualisation, analytics pipelines
 
-## 🌟 Selected Projects
+## Selected Projects 🌟
 
 - **[AI Experiments](https://github.com/mikewild-wcl/ai-experiments)**  
   Applied GenAI prototypes demonstrating secure RAG architectures, tool-calling, document ingestion, vector search, and MCP using Azure OpenAI, AWS Bedrock, Ollama, Semantic Kernel, Agent Framework, and Neo4j.
