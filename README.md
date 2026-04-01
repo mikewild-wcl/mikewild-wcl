@@ -55,7 +55,7 @@ Currently expanding into generative AI, AI-enabled engineering with GitHub Copil
 - **[GraphRAG](https://github.com/mikewild-wcl/ai-agentic-graph-rag)**  
   .NET reference project demonstrating GraphRAG using Microsoft Agent Framework and Neo4j, with a Blazor front end orchestrated via Aspire. Implements automated PDF ingestion and agent-driven query workflows. Supports Azure Foundry and local Ollama models.
 
-- **[SQL Server 2025 Semantic Search](https://github.com/mikewild-wcl/sqlserver-semantic-search)**  
+- **[SQL Server 2025 Semantic Search](https://github.com/mikewild-wcl/sql-vector-embeddings)**  
   .NET project exploring semantic search using SQL Server 2025 and Azure SQL vector features. Implements automated ingestion and embedding of arXiv documents using C# and Azure Functions, with local SQL in Docker and orchestration via Aspire.
 
 - **[DatabaseSampler](https://github.com/mikewild-wcl/DatabaseSampler)**  
